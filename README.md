@@ -10,7 +10,7 @@ bash TERMUX-KEYS.sh
 
 And guys you want uninstall this key so type
 
-cd TERMUX-KEYS
+cd TERMUX-KEYS &&
 bash remove-key.sh
 
 YOUTUBE https://youtube.com/channel/UC3Fe3nuTcHGaiPkqJpm1ySg
