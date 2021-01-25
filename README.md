@@ -15,3 +15,5 @@ bash remove-key.sh
 
 YOUTUBE https://youtube.com/channel/UC3Fe3nuTcHGaiPkqJpm1ySg
 
+
+Vedio tutorial https://youtu.be/QDlEYBDwmlo
